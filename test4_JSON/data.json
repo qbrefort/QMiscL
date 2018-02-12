@@ -1,0 +1,21 @@
+{
+    "Hommes":[
+           {
+              "name": "John",
+              "description": "bite",
+              "message": "j'aime les saucisse"
+           },
+           {
+              "name": "Billy",
+              "description": "blaireau",
+              "message": "j'aime les hommes",
+              "imp":["awesome","best","good"]
+        },
+           {
+              "name": "Johnny",
+              "description": "chanteur",
+              "message": "j'aime le cuir",
+              "imp":["awesome","best","good"]
+           }
+    ]
+}

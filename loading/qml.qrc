@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoadingCircle.qml</file>
+        <file>WhiteCircle.qml</file>
+        <file>LoadingSmallCircle.qml</file>
+        <file>SmallWhiteCircle.qml</file>
+    </qresource>
+</RCC>
