@@ -18,6 +18,13 @@ Window {
         LoadingSmallCircle{
 
         }
+        LoadingDoubleSmallCircle{
+
+        }
+
+        LoadingRectangle{
+
+        }
 
     }
 

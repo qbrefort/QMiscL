@@ -4,7 +4,7 @@ Rectangle {
     property alias sq : sq.running
     property int dur: 500
     id:whiteCircle
-     width: 13
+     width: 11
      height: width
      color: "white"
      radius: width*0.5

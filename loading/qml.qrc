@@ -5,5 +5,8 @@
         <file>WhiteCircle.qml</file>
         <file>LoadingSmallCircle.qml</file>
         <file>SmallWhiteCircle.qml</file>
+        <file>LoadingDoubleSmallCircle.qml</file>
+        <file>WhiteRectangle.qml</file>
+        <file>LoadingRectangle.qml</file>
     </qresource>
 </RCC>
