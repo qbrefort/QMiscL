@@ -8,5 +8,7 @@
         <file>LoadingDoubleSmallCircle.qml</file>
         <file>WhiteRectangle.qml</file>
         <file>LoadingRectangle.qml</file>
+        <file>LoadingDoubleCircle.qml</file>
+        <file>DoubleCircle.qml</file>
     </qresource>
 </RCC>
